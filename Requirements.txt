@@ -1,0 +1,5 @@
+Pre requisite libraries are needed like:
+pandas
+numpy
+scikit-learn
+matplotlib
